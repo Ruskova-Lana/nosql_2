@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Kaggle credentials
+.kaggle/
+kaggle.json
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Generated files
+embeddings/
+data/
+arxiv.zip
+arxiv-metadata-oai-snapshot.json
+embeddings/
+
+# Logs
+*.log
