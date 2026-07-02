@@ -118,7 +118,7 @@ normalize_embeddings=True
 # ЗАВДАННЯ №2
 
 ## Результат виконання 03_load_to_pinecone.py
-![03_load](images/03_load.png)
+![03_load](images/03_load_to_pincone.png)
 
 
 # ЗАВДАННЯ №3
